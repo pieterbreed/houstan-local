@@ -1,0 +1,6 @@
+[submodule "houstan-local-datomic"]
+	path = houstan-local-datomic
+	url = ./houstan-local-datomic
+[submodule "houstan-local-vagrant"]
+	path = houstan-local-vagrant
+	url = ./houstan-local-vagrant
