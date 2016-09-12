@@ -1,6 +1,6 @@
 [submodule "houstan-local-datomic"]
 	path = houstan-local-datomic
-	url = ./houstan-local-datomic
+	url = git@github.com:pieterbreed/houstan-local-datomic.git
 [submodule "houstan-local-vagrant"]
 	path = houstan-local-vagrant
-	url = ./houstan-local-vagrant
+	url = git@github.com:pieterbreed/houstan-local-vagrant.git
