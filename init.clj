@@ -2,8 +2,7 @@
 
 (set-env! :dependencies '[[pieterbreed/tappit "0.9.8"]
                           [me.raynes/conch "0.8.0"]
-                          [environ "1.0.3"]
-                          [pieterbreed/yoostan-lib "0.0.1-SNAPSHOT"]])
+                          [environ "1.0.3"]])
 
 
 ;; ----------------------------------------
@@ -22,7 +21,6 @@
 (require '[tappit.producer :refer [with-tap! ok]])
 (require '[me.raynes.conch :as conch])
 (require '[me.raynes.conch.low-level :as sh])
-(require '[yoostan-lib.utils :as utils])
 
 ;; ----------------------------------------
 
